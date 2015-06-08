@@ -5,10 +5,13 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../Tools/gradle-2.2.1" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Tools/gradle_2_4" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/nemeserver" />
+            <option value="$PROJECT_DIR$/sistoclient" />
           </set>
         </option>
       </GradleProjectSettings>

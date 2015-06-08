@@ -8,6 +8,9 @@
     <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../Projects/itfm-cloud/dev/code-standards/eclipse/CodeFormat.xml" />
     <option name="selectedJavaProfile" value="itfm-cloud" />
   </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>

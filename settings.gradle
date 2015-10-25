@@ -1,4 +1,0 @@
-rootProject.name = 'nemesisto'
-include 'nemeserver'
-include 'sistoclient'
-

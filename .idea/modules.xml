@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/skuld/skuld.iml" filepath="$PROJECT_DIR$/skuld/skuld.iml" />
       <module fileurl="file://$PROJECT_DIR$/urd/urd.iml" filepath="$PROJECT_DIR$/urd/urd.iml" />
       <module fileurl="file://$PROJECT_DIR$/verdandi/verdandi.iml" filepath="$PROJECT_DIR$/verdandi/verdandi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yggdrasils.iml" filepath="$PROJECT_DIR$/yggdrasils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yggdrasil.iml" filepath="$PROJECT_DIR$/yggdrasil.iml" />
     </modules>
   </component>
 </project>

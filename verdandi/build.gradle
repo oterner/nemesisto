@@ -1,4 +1,4 @@
-group 'com.karte.ydddrasils'
+group 'com.karte.ydddrasil'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'

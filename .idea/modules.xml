@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/skuld/skuld.iml" filepath="$PROJECT_DIR$/skuld/skuld.iml" />
       <module fileurl="file://$PROJECT_DIR$/urd/urd.iml" filepath="$PROJECT_DIR$/urd/urd.iml" />
       <module fileurl="file://$PROJECT_DIR$/verdandi/verdandi.iml" filepath="$PROJECT_DIR$/verdandi/verdandi.iml" />
       <module fileurl="file://$PROJECT_DIR$/yggdrasil.iml" filepath="$PROJECT_DIR$/yggdrasil.iml" />

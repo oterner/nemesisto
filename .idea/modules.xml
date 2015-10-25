@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/neme-client/neme-client.iml" filepath="$PROJECT_DIR$/neme-client/neme-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/neme-server/neme-server.iml" filepath="$PROJECT_DIR$/neme-server/neme-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nemesisto.iml" filepath="$PROJECT_DIR$/nemesisto.iml" />
-    </modules>
+    <modules />
   </component>
 </project>

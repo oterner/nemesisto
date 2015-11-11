@@ -9,9 +9,7 @@
     <option name="selectedJavaProfile" value="itfm-cloud" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/skuld" />
-    <file type="web" url="file://$PROJECT_DIR$/urd" />
-    <file type="web" url="file://$PROJECT_DIR$/verdandi" />
+    <file type="web" url="file://$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />

@@ -5,14 +5,28 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../Tools/gradle-2.8" />
-        <option name="gradleJvm" value="1.8" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Tools/gradle_2_4" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/skuld" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Tools/gradle_2_4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/skuld" />
+          </set>
+        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/urd" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../Tools/gradle-2.8" />
-        <option name="gradleJvm" value="1.8" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Tools/gradle_2_4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/urd" />
@@ -22,8 +36,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/verdandi" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../Tools/gradle-2.8" />
-        <option name="gradleJvm" value="1.8" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Tools/gradle_2_4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/verdandi" />

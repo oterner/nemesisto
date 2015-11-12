@@ -4,4 +4,4 @@ include 'skuld'
 include 'urd'
 include 'verdandi'
 
-project(':commons').projectDir = "$rootDir/commons" as File
+project(':common').projectDir = "$rootDir/common" as File

@@ -11,6 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/skuld" />
+            <option value="$PROJECT_DIR$/urd" />
+            <option value="$PROJECT_DIR$/verdandi" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -20,7 +23,11 @@
         <option name="gradleHome" value="$PROJECT_DIR$/../../Tools/gradle_2_4" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/skuld" />
+            <option value="$PROJECT_DIR$/urd" />
+            <option value="$PROJECT_DIR$/verdandi" />
           </set>
         </option>
       </GradleProjectSettings>
